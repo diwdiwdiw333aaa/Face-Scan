@@ -1,0 +1,9 @@
+{
+    "name": "บันทึกข้อมูลส่วนตัว",
+    "short_name": "บันทึกข้อมูล เวลาสแกนหน้า",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#5cb85c",
+    ]
+}
